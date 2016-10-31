@@ -7,13 +7,16 @@
         "bin-dir": "bin"
     },
      "repositories": [
-        { "type": "git", "url": "https://github.com/maschad/wolf_cms.git" }
+        { "type": "git", "url": "https://github.com/maschad/wolf_cms.git" },
+        {"type":"git", "url": "https://github.com/johannessteu/JohannesSteu.Bootstrap.GridSystem"}
     ],
     "require": {
         "typo3/neos": "~2.2.0",
         "typo3/neos-nodetypes": "~2.2.0",
         "neos/demo": "~2.2.0",
         "typo3/neos-kickstarter": "~2.2.0",
+        "typo3/form": "@dev",
+
 
         "typo3/neos-seo": "~1.0",
         "typo3/setup": "~2.0",
