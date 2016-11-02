@@ -16,6 +16,7 @@
         "neos/demo": "~2.2.0",
         "typo3/neos-kickstarter": "~2.2.0",
         "typo3/form": "@dev",
+        "typo3/surf": "dev-master",
 
 
         "typo3/neos-seo": "~1.0",
